@@ -25,10 +25,12 @@ main{
     align-items: center;
     justify-content: space-evenly;
     background-color: var(--section-color);
+    border-radius: 20px;
+    box-shadow: 0 0 10px 3px #7e636d;
     padding:30px ;
 }
 .heading{
-    align-self: center;
+    font-size: 2rem;
     color: var(--head-color);
 }
 .input_section{
